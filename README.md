@@ -2,6 +2,10 @@
 
 Personal lecture notes and assignment implementations for Stanford's CS224N (Spring 2024).
 
+![CS224N Learning Path](./img/path.jpeg)
+
+*The LLM Stack: CS224N (green) covers the middle of the stack. We are climbing halfway up the mountainside.
+
 ## Overview
 
 Natural language processing (NLP) is a crucial part of artificial intelligence (AI), modeling how people share information. In recent years, deep learning approaches have obtained very high performance on many NLP tasks. In this course, students gain a thorough introduction to cutting-edge neural networks for NLP.
@@ -33,8 +37,6 @@ Natural language processing (NLP) is a crucial part of artificial intelligence (
 - Lecture 15 — After DPO (Nathan Lambert): [Video](https://www.youtube.com/watch?v=dnF463_Ar9I&list=PLoROMvodv4rOaMFbaqxPDoLWjDaRAdP9D&index=16)
 - Lecture 16 — ConvNets and TreeRNNs: [Video](https://www.youtube.com/watch?v=S8d-7v3f5MQ&list=PLoROMvodv4rOaMFbaqxPDoLWjDaRAdP9D&index=17)
 - Lecture 18 — NLP, Linguistics, Philosophy: [Video](https://www.youtube.com/watch?v=NxH0Y78xcF4&list=PLoROMvodv4rOaMFbaqxPDoLWjDaRAdP9D&index=18)
-
-### Assignments
 
 ### Assignments
 
