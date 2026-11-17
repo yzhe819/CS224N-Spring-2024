@@ -1,0 +1,206 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1560 995" width="1560" height="995" font-family="'Times New Roman', Times, Georgia, serif" xmlns:c2pa="http://c2pa.org/manifest">
+<title>Activation functions: formula, domain and range</title>
+<rect width="1560" height="995" rx="8" fill="#ffffff"/>
+<g transform="translate(100,100)">
+<text x="160.0" y="30" text-anchor="middle" font-size="25" fill="#222">Logistic (sigmoid)</text>
+<text x="12" y="66" font-size="18" fill="#222" xml:space="preserve" ><tspan font-style="italic">σ</tspan><tspan>(</tspan><tspan font-style="italic">z</tspan><tspan>) = 1 / (1 + e</tspan><tspan dy="-6.8" font-size="12.2">−</tspan><tspan dy="6.8"></tspan><tspan dy="-6.8" font-size="12.2" font-style="italic">z</tspan><tspan dy="6.8">)</tspan></text>
+<rect x="40" y="151.7" width="260" height="126.7" fill="#a9c9d9" fill-opacity="0.55"/>
+<line x1="40" y1="151.7" x2="300" y2="151.7" stroke="#555" stroke-width="1.4" stroke-dasharray="6 5"/>
+<line x1="40" y1="278.3" x2="300" y2="278.3" stroke="#555" stroke-width="1.4" stroke-dasharray="6 5"/>
+<line x1="40" y1="278.3" x2="300" y2="278.3" stroke="#e2cb82" stroke-width="9"/>
+<line x1="38" y1="278.3" x2="300" y2="278.3" stroke="#222" stroke-width="2" stroke-linecap="round"/>
+<polygon points="311,278.3 301,273.8 301,282.8" fill="#222"/>
+<line x1="170.0" y1="310" x2="170.0" y2="118" stroke="#222" stroke-width="2" stroke-linecap="round"/>
+<polygon points="170.0,108 165.5,118 174.5,118" fill="#222"/>
+<text x="316" y="283.3" font-size="18" font-style="italic" fill="#222">z</text>
+<line x1="40.0" y1="274.3" x2="40.0" y2="282.3" stroke="#222" stroke-width="1.5"/>
+<text x="40.0" y="298.3" text-anchor="middle" font-size="15" fill="#555">−6</text>
+<line x1="105.0" y1="274.3" x2="105.0" y2="282.3" stroke="#222" stroke-width="1.5"/>
+<text x="105.0" y="298.3" text-anchor="middle" font-size="15" fill="#555">−3</text>
+<line x1="235.0" y1="274.3" x2="235.0" y2="282.3" stroke="#222" stroke-width="1.5"/>
+<text x="235.0" y="298.3" text-anchor="middle" font-size="15" fill="#555">3</text>
+<line x1="300.0" y1="274.3" x2="300.0" y2="282.3" stroke="#222" stroke-width="1.5"/>
+<text x="300.0" y="298.3" text-anchor="middle" font-size="15" fill="#555">6</text>
+<line x1="35" y1="278.3" x2="40" y2="278.3" stroke="#555" stroke-width="1.5"/>
+<text x="31" y="283.3" text-anchor="end" font-size="15" fill="#555">0</text>
+<line x1="35" y1="151.7" x2="40" y2="151.7" stroke="#555" stroke-width="1.5"/>
+<text x="31" y="156.7" text-anchor="end" font-size="15" fill="#555">1</text>
+<polyline points="40.0,278.0 41.6,278.0 43.3,278.0 44.9,277.9 46.5,277.9 48.1,277.9 49.8,277.8 51.4,277.8 53.0,277.8 54.6,277.7 56.2,277.7 57.9,277.6 59.5,277.6 61.1,277.5 62.8,277.4 64.4,277.4 66.0,277.3 67.6,277.2 69.2,277.1 70.9,277.0 72.5,276.9 74.1,276.8 75.8,276.7 77.4,276.6 79.0,276.5 80.6,276.3 82.2,276.2 83.9,276.0 85.5,275.8 87.1,275.6 88.8,275.4 90.4,275.2 92.0,275.0 93.6,274.7 95.2,274.4 96.9,274.1 98.5,273.8 100.1,273.5 101.8,273.1 103.4,272.7 105.0,272.3 106.6,271.9 108.2,271.4 109.9,270.9 111.5,270.4 113.1,269.8 114.8,269.2 116.4,268.5 118.0,267.8 119.6,267.1 121.2,266.3 122.9,265.4 124.5,264.5 126.1,263.6 127.7,262.6 129.4,261.5 131.0,260.4 132.6,259.2 134.2,257.9 135.9,256.6 137.5,255.2 139.1,253.8 140.8,252.3 142.4,250.7 144.0,249.0 145.6,247.3 147.2,245.5 148.9,243.6 150.5,241.7 152.1,239.7 153.8,237.7 155.4,235.6 157.0,233.4 158.6,231.3 160.2,229.0 161.9,226.7 163.5,224.4 165.1,222.1 166.8,219.7 168.4,217.4 170.0,215.0 171.6,212.6 173.3,210.3 174.9,207.9 176.5,205.6 178.1,203.3 179.8,201.0 181.4,198.7 183.0,196.6 184.6,194.4 186.2,192.3 187.9,190.3 189.5,188.3 191.1,186.4 192.8,184.5 194.4,182.7 196.0,181.0 197.6,179.3 199.2,177.7 200.9,176.2 202.5,174.8 204.1,173.4 205.8,172.1 207.4,170.8 209.0,169.6 210.6,168.5 212.2,167.4 213.9,166.4 215.5,165.5 217.1,164.6 218.8,163.7 220.4,162.9 222.0,162.2 223.6,161.5 225.2,160.8 226.9,160.2 228.5,159.6 230.1,159.1 231.7,158.6 233.4,158.1 235.0,157.7 236.6,157.3 238.3,156.9 239.9,156.5 241.5,156.2 243.1,155.9 244.8,155.6 246.4,155.3 248.0,155.0 249.6,154.8 251.2,154.6 252.9,154.4 254.5,154.2 256.1,154.0 257.8,153.8 259.4,153.7 261.0,153.5 262.6,153.4 264.2,153.3 265.9,153.2 267.5,153.1 269.1,153.0 270.8,152.9 272.4,152.8 274.0,152.7 275.6,152.6 277.2,152.6 278.9,152.5 280.5,152.4 282.1,152.4 283.8,152.3 285.4,152.3 287.0,152.2 288.6,152.2 290.2,152.2 291.9,152.1 293.5,152.1 295.1,152.1 296.8,152.0 298.4,152.0 300.0,152.0" fill="none" stroke="#222" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="62" y="346" font-size="20" fill="#555">Domain:</text><text x="140" y="346" font-size="20" fill="#222">(−∞, ∞)</text>
+<text x="62" y="372" font-size="20" fill="#555">Range:</text><text x="140" y="372" font-size="20" fill="#222">(0, 1)</text>
+<text x="500.0" y="30" text-anchor="middle" font-size="25" fill="#222">tanh</text>
+<text x="352" y="66" font-size="18" fill="#222" xml:space="preserve" ><tspan>tanh(</tspan><tspan font-style="italic">z</tspan><tspan>) = (e</tspan><tspan dy="-6.8" font-size="12.2" font-style="italic">z</tspan><tspan dy="6.8"> − e</tspan><tspan dy="-6.8" font-size="12.2">−</tspan><tspan dy="6.8"></tspan><tspan dy="-6.8" font-size="12.2" font-style="italic">z</tspan><tspan dy="6.8">) / (e</tspan><tspan dy="-6.8" font-size="12.2" font-style="italic">z</tspan><tspan dy="6.8"> + e</tspan><tspan dy="-6.8" font-size="12.2">−</tspan><tspan dy="6.8"></tspan><tspan dy="-6.8" font-size="12.2" font-style="italic">z</tspan><tspan dy="6.8">)</tspan></text>
+<rect x="380" y="147.1" width="260" height="135.7" fill="#a9c9d9" fill-opacity="0.55"/>
+<line x1="380" y1="147.1" x2="640" y2="147.1" stroke="#555" stroke-width="1.4" stroke-dasharray="6 5"/>
+<line x1="380" y1="282.9" x2="640" y2="282.9" stroke="#555" stroke-width="1.4" stroke-dasharray="6 5"/>
+<line x1="380" y1="215.0" x2="640" y2="215.0" stroke="#e2cb82" stroke-width="9"/>
+<line x1="378" y1="215.0" x2="640" y2="215.0" stroke="#222" stroke-width="2" stroke-linecap="round"/>
+<polygon points="651,215.0 641,210.5 641,219.5" fill="#222"/>
+<line x1="510.0" y1="310" x2="510.0" y2="118" stroke="#222" stroke-width="2" stroke-linecap="round"/>
+<polygon points="510.0,108 505.5,118 514.5,118" fill="#222"/>
+<text x="656" y="220.0" font-size="18" font-style="italic" fill="#222">z</text>
+<line x1="380.0" y1="211.0" x2="380.0" y2="219.0" stroke="#222" stroke-width="1.5"/>
+<text x="380.0" y="235.0" text-anchor="middle" font-size="15" fill="#555">−4</text>
+<line x1="445.0" y1="211.0" x2="445.0" y2="219.0" stroke="#222" stroke-width="1.5"/>
+<text x="445.0" y="235.0" text-anchor="middle" font-size="15" fill="#555">−2</text>
+<line x1="575.0" y1="211.0" x2="575.0" y2="219.0" stroke="#222" stroke-width="1.5"/>
+<text x="575.0" y="235.0" text-anchor="middle" font-size="15" fill="#555">2</text>
+<line x1="640.0" y1="211.0" x2="640.0" y2="219.0" stroke="#222" stroke-width="1.5"/>
+<text x="640.0" y="235.0" text-anchor="middle" font-size="15" fill="#555">4</text>
+<line x1="375" y1="282.9" x2="380" y2="282.9" stroke="#555" stroke-width="1.5"/>
+<text x="371" y="287.9" text-anchor="end" font-size="15" fill="#555">−1</text>
+<line x1="375" y1="147.1" x2="380" y2="147.1" stroke="#555" stroke-width="1.5"/>
+<text x="371" y="152.1" text-anchor="end" font-size="15" fill="#555">1</text>
+<polyline points="380.0,282.8 381.6,282.8 383.2,282.8 384.9,282.8 386.5,282.8 388.1,282.8 389.8,282.8 391.4,282.8 393.0,282.8 394.6,282.7 396.2,282.7 397.9,282.7 399.5,282.7 401.1,282.7 402.8,282.7 404.4,282.7 406.0,282.6 407.6,282.6 409.2,282.6 410.9,282.6 412.5,282.5 414.1,282.5 415.8,282.4 417.4,282.4 419.0,282.4 420.6,282.3 422.2,282.2 423.9,282.2 425.5,282.1 427.1,282.0 428.8,281.9 430.4,281.9 432.0,281.7 433.6,281.6 435.2,281.5 436.9,281.4 438.5,281.2 440.1,281.0 441.8,280.9 443.4,280.6 445.0,280.4 446.6,280.2 448.2,279.9 449.9,279.6 451.5,279.2 453.1,278.9 454.8,278.5 456.4,278.0 458.0,277.5 459.6,277.0 461.2,276.4 462.9,275.8 464.5,275.1 466.1,274.3 467.8,273.5 469.4,272.6 471.0,271.6 472.6,270.5 474.2,269.3 475.9,268.1 477.5,266.7 479.1,265.2 480.8,263.6 482.4,261.9 484.0,260.1 485.6,258.1 487.2,256.0 488.9,253.8 490.5,251.4 492.1,249.0 493.8,246.4 495.4,243.6 497.0,240.8 498.6,237.8 500.2,234.8 501.9,231.6 503.5,228.4 505.1,225.1 506.8,221.8 508.4,218.4 510.0,215.0 511.6,211.6 513.2,208.2 514.9,204.9 516.5,201.6 518.1,198.4 519.8,195.2 521.4,192.2 523.0,189.2 524.6,186.4 526.2,183.6 527.9,181.0 529.5,178.6 531.1,176.2 532.8,174.0 534.4,171.9 536.0,169.9 537.6,168.1 539.2,166.4 540.9,164.8 542.5,163.3 544.1,161.9 545.8,160.7 547.4,159.5 549.0,158.4 550.6,157.4 552.2,156.5 553.9,155.7 555.5,154.9 557.1,154.2 558.8,153.6 560.4,153.0 562.0,152.5 563.6,152.0 565.2,151.5 566.9,151.1 568.5,150.8 570.1,150.4 571.8,150.1 573.4,149.8 575.0,149.6 576.6,149.4 578.2,149.1 579.9,149.0 581.5,148.8 583.1,148.6 584.8,148.5 586.4,148.4 588.0,148.3 589.6,148.1 591.2,148.1 592.9,148.0 594.5,147.9 596.1,147.8 597.8,147.8 599.4,147.7 601.0,147.6 602.6,147.6 604.2,147.6 605.9,147.5 607.5,147.5 609.1,147.4 610.8,147.4 612.4,147.4 614.0,147.4 615.6,147.3 617.2,147.3 618.9,147.3 620.5,147.3 622.1,147.3 623.8,147.3 625.4,147.3 627.0,147.2 628.6,147.2 630.2,147.2 631.9,147.2 633.5,147.2 635.1,147.2 636.8,147.2 638.4,147.2 640.0,147.2" fill="none" stroke="#222" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="402" y="346" font-size="20" fill="#555">Domain:</text><text x="480" y="346" font-size="20" fill="#222">(−∞, ∞)</text>
+<text x="402" y="372" font-size="20" fill="#555">Range:</text><text x="480" y="372" font-size="20" fill="#222">(−1, 1)</text>
+<text x="840.0" y="30" text-anchor="middle" font-size="25" fill="#222">Hard tanh</text>
+<text x="692" y="66" font-size="18" fill="#222" xml:space="preserve" ><tspan>HardTanh(</tspan><tspan font-style="italic">z</tspan><tspan>) = max(−1, min(1, </tspan><tspan font-style="italic">z</tspan><tspan>))</tspan></text>
+<text x="692" y="92" font-size="18" fill="#222" xml:space="preserve" ><tspan>i.e. </tspan><tspan font-style="italic">z</tspan><tspan> clipped to [−1, 1]</tspan></text>
+<rect x="720" y="147.1" width="260" height="135.7" fill="#a9c9d9" fill-opacity="0.55"/>
+<line x1="720" y1="147.1" x2="980" y2="147.1" stroke="#555" stroke-width="1.4"/>
+<line x1="720" y1="282.9" x2="980" y2="282.9" stroke="#555" stroke-width="1.4"/>
+<line x1="720" y1="215.0" x2="980" y2="215.0" stroke="#e2cb82" stroke-width="9"/>
+<line x1="718" y1="215.0" x2="980" y2="215.0" stroke="#222" stroke-width="2" stroke-linecap="round"/>
+<polygon points="991,215.0 981,210.5 981,219.5" fill="#222"/>
+<line x1="850.0" y1="310" x2="850.0" y2="118" stroke="#222" stroke-width="2" stroke-linecap="round"/>
+<polygon points="850.0,108 845.5,118 854.5,118" fill="#222"/>
+<text x="996" y="220.0" font-size="18" font-style="italic" fill="#222">z</text>
+<line x1="720.0" y1="211.0" x2="720.0" y2="219.0" stroke="#222" stroke-width="1.5"/>
+<text x="720.0" y="235.0" text-anchor="middle" font-size="15" fill="#555">−3</text>
+<line x1="806.7" y1="211.0" x2="806.7" y2="219.0" stroke="#222" stroke-width="1.5"/>
+<text x="806.7" y="235.0" text-anchor="middle" font-size="15" fill="#555">−1</text>
+<line x1="893.3" y1="211.0" x2="893.3" y2="219.0" stroke="#222" stroke-width="1.5"/>
+<text x="893.3" y="235.0" text-anchor="middle" font-size="15" fill="#555">1</text>
+<line x1="980.0" y1="211.0" x2="980.0" y2="219.0" stroke="#222" stroke-width="1.5"/>
+<text x="980.0" y="235.0" text-anchor="middle" font-size="15" fill="#555">3</text>
+<line x1="715" y1="282.9" x2="720" y2="282.9" stroke="#555" stroke-width="1.5"/>
+<text x="711" y="287.9" text-anchor="end" font-size="15" fill="#555">−1</text>
+<line x1="715" y1="147.1" x2="720" y2="147.1" stroke="#555" stroke-width="1.5"/>
+<text x="711" y="152.1" text-anchor="end" font-size="15" fill="#555">1</text>
+<polyline points="720.0,282.9 806.7,282.9 893.3,147.1 980.0,147.1" fill="none" stroke="#222" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="742" y="346" font-size="20" fill="#555">Domain:</text><text x="820" y="346" font-size="20" fill="#222">(−∞, ∞)</text>
+<text x="742" y="372" font-size="20" fill="#555">Range:</text><text x="820" y="372" font-size="20" fill="#222">[−1, 1]</text>
+<text x="1180.0" y="30" text-anchor="middle" font-size="25" fill="#222">ReLU</text>
+<text x="1032" y="66" font-size="18" fill="#222" xml:space="preserve" ><tspan>ReLU(</tspan><tspan font-style="italic">z</tspan><tspan>) = max(0, </tspan><tspan font-style="italic">z</tspan><tspan>)</tspan></text>
+<rect x="1060" y="120.0" width="260" height="152.9" fill="#a9c9d9" fill-opacity="0.55"/>
+<line x1="1060" y1="272.9" x2="1320" y2="272.9" stroke="#555" stroke-width="1.4"/>
+<line x1="1060" y1="272.9" x2="1320" y2="272.9" stroke="#e2cb82" stroke-width="9"/>
+<line x1="1058" y1="272.9" x2="1320" y2="272.9" stroke="#222" stroke-width="2" stroke-linecap="round"/>
+<polygon points="1331,272.9 1321,268.4 1321,277.4" fill="#222"/>
+<line x1="1190.0" y1="310" x2="1190.0" y2="118" stroke="#222" stroke-width="2" stroke-linecap="round"/>
+<polygon points="1190.0,108 1185.5,118 1194.5,118" fill="#222"/>
+<text x="1336" y="277.9" font-size="18" font-style="italic" fill="#222">z</text>
+<line x1="1103.3" y1="268.9" x2="1103.3" y2="276.9" stroke="#222" stroke-width="1.5"/>
+<text x="1103.3" y="292.9" text-anchor="middle" font-size="15" fill="#555">−2</text>
+<line x1="1276.7" y1="268.9" x2="1276.7" y2="276.9" stroke="#222" stroke-width="1.5"/>
+<text x="1276.7" y="292.9" text-anchor="middle" font-size="15" fill="#555">2</text>
+<line x1="1055" y1="272.9" x2="1060" y2="272.9" stroke="#555" stroke-width="1.5"/>
+<text x="1051" y="277.9" text-anchor="end" font-size="15" fill="#555">0</text>
+<line x1="1055" y1="226.6" x2="1060" y2="226.6" stroke="#555" stroke-width="1.5"/>
+<text x="1051" y="231.6" text-anchor="end" font-size="15" fill="#555">1</text>
+<line x1="1055" y1="180.2" x2="1060" y2="180.2" stroke="#555" stroke-width="1.5"/>
+<text x="1051" y="185.2" text-anchor="end" font-size="15" fill="#555">2</text>
+<line x1="1055" y1="133.9" x2="1060" y2="133.9" stroke="#555" stroke-width="1.5"/>
+<text x="1051" y="138.9" text-anchor="end" font-size="15" fill="#555">3</text>
+<polyline points="1060.0,272.9 1190.0,272.9 1320.0,133.9" fill="none" stroke="#222" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="1082" y="346" font-size="20" fill="#555">Domain:</text><text x="1160" y="346" font-size="20" fill="#222">(−∞, ∞)</text>
+<text x="1082" y="372" font-size="20" fill="#555">Range:</text><text x="1160" y="372" font-size="20" fill="#222">[0, ∞)</text>
+<text x="160.0" y="440" text-anchor="middle" font-size="25" fill="#222">Leaky ReLU / Parametric ReLU</text>
+<text x="12" y="476" font-size="18" fill="#222" xml:space="preserve" ><tspan>LeakyReLU(</tspan><tspan font-style="italic">z</tspan><tspan>) = max(0.01</tspan><tspan font-style="italic">z</tspan><tspan>, </tspan><tspan font-style="italic">z</tspan><tspan>)</tspan></text>
+<text x="12" y="502" font-size="18" fill="#222" xml:space="preserve" ><tspan>PReLU(</tspan><tspan font-style="italic">z</tspan><tspan>) = max(</tspan><tspan font-style="italic">a z</tspan><tspan>, </tspan><tspan font-style="italic">z</tspan><tspan>)</tspan></text>
+<rect x="40" y="530.0" width="260" height="190.0" fill="#a9c9d9" fill-opacity="0.55"/>
+<line x1="40" y1="675.8" x2="300" y2="675.8" stroke="#e2cb82" stroke-width="9"/>
+<line x1="38" y1="675.8" x2="300" y2="675.8" stroke="#222" stroke-width="2" stroke-linecap="round"/>
+<polygon points="311,675.8 301,671.3 301,680.3" fill="#222"/>
+<line x1="170.0" y1="720" x2="170.0" y2="528" stroke="#222" stroke-width="2" stroke-linecap="round"/>
+<polygon points="170.0,518 165.5,528 174.5,528" fill="#222"/>
+<text x="316" y="680.8" font-size="18" font-style="italic" fill="#222">z</text>
+<line x1="40.0" y1="671.8" x2="40.0" y2="679.8" stroke="#222" stroke-width="1.5"/>
+<text x="40.0" y="695.8" text-anchor="middle" font-size="15" fill="#555">−3</text>
+<line x1="83.3" y1="671.8" x2="83.3" y2="679.8" stroke="#222" stroke-width="1.5"/>
+<text x="83.3" y="695.8" text-anchor="middle" font-size="15" fill="#555">−2</text>
+<line x1="256.7" y1="671.8" x2="256.7" y2="679.8" stroke="#222" stroke-width="1.5"/>
+<text x="256.7" y="695.8" text-anchor="middle" font-size="15" fill="#555">2</text>
+<line x1="300.0" y1="671.8" x2="300.0" y2="679.8" stroke="#222" stroke-width="1.5"/>
+<text x="300.0" y="695.8" text-anchor="middle" font-size="15" fill="#555">3</text>
+<line x1="35" y1="720.0" x2="40" y2="720.0" stroke="#555" stroke-width="1.5"/>
+<text x="31" y="725.0" text-anchor="end" font-size="15" fill="#555">−1</text>
+<line x1="35" y1="631.6" x2="40" y2="631.6" stroke="#555" stroke-width="1.5"/>
+<text x="31" y="636.6" text-anchor="end" font-size="15" fill="#555">1</text>
+<line x1="35" y1="587.4" x2="40" y2="587.4" stroke="#555" stroke-width="1.5"/>
+<text x="31" y="592.4" text-anchor="end" font-size="15" fill="#555">2</text>
+<line x1="35" y1="543.3" x2="40" y2="543.3" stroke="#555" stroke-width="1.5"/>
+<text x="31" y="548.3" text-anchor="end" font-size="15" fill="#555">3</text>
+<polyline points="40.0,709.0 170.0,675.8 300.0,543.3" fill="none" stroke="#2f86ad" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="40.0,677.1 170.0,675.8 300.0,543.3" fill="none" stroke="#222" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="46" y1="544" x2="72" y2="544" stroke="#222" stroke-width="2.8" stroke-linecap="round"/><text x="78" y="549" font-size="13" fill="#222">Leaky: <tspan font-style="italic">a</tspan> = 0.01</text><line x1="46" y1="566" x2="72" y2="566" stroke="#2f86ad" stroke-width="2.8" stroke-linecap="round"/><text x="78" y="571" font-size="13" fill="#2f86ad">PReLU: <tspan font-style="italic">a</tspan> = 0.25</text>
+<text x="62" y="756" font-size="20" fill="#555">Domain:</text><text x="140" y="756" font-size="20" fill="#222">(−∞, ∞)</text>
+<text x="62" y="782" font-size="20" fill="#555">Range:</text><text x="140" y="782" font-size="20" fill="#222">(−∞, ∞)</text>
+<text x="500.0" y="440" text-anchor="middle" font-size="25" fill="#222">Swish</text>
+<text x="352" y="476" font-size="18" fill="#222" xml:space="preserve" ><tspan>Swish(</tspan><tspan font-style="italic">z</tspan><tspan>) = </tspan><tspan font-style="italic">z</tspan><tspan> · </tspan><tspan font-style="italic">σ</tspan><tspan>(</tspan><tspan font-style="italic">z</tspan><tspan>)</tspan></text>
+<rect x="380" y="530.0" width="260" height="170.2" fill="#a9c9d9" fill-opacity="0.55"/>
+<line x1="380" y1="700.2" x2="640" y2="700.2" stroke="#555" stroke-width="1.4"/>
+<line x1="380" y1="689.6" x2="640" y2="689.6" stroke="#e2cb82" stroke-width="9"/>
+<line x1="378" y1="689.6" x2="640" y2="689.6" stroke="#222" stroke-width="2" stroke-linecap="round"/>
+<polygon points="651,689.6 641,685.1 641,694.1" fill="#222"/>
+<line x1="524.4" y1="720" x2="524.4" y2="528" stroke="#222" stroke-width="2" stroke-linecap="round"/>
+<polygon points="524.4,518 519.9,528 528.9,528" fill="#222"/>
+<text x="656" y="694.6" font-size="18" font-style="italic" fill="#222">z</text>
+<line x1="408.9" y1="685.6" x2="408.9" y2="693.6" stroke="#222" stroke-width="1.5"/>
+<text x="408.9" y="709.6" text-anchor="middle" font-size="15" fill="#555">−4</text>
+<line x1="466.7" y1="685.6" x2="466.7" y2="693.6" stroke="#222" stroke-width="1.5"/>
+<text x="466.7" y="709.6" text-anchor="middle" font-size="15" fill="#555">−2</text>
+<line x1="582.2" y1="685.6" x2="582.2" y2="693.6" stroke="#222" stroke-width="1.5"/>
+<text x="582.2" y="709.6" text-anchor="middle" font-size="15" fill="#555">2</text>
+<line x1="640.0" y1="685.6" x2="640.0" y2="693.6" stroke="#222" stroke-width="1.5"/>
+<text x="640.0" y="709.6" text-anchor="middle" font-size="15" fill="#555">4</text>
+<line x1="375" y1="689.6" x2="380" y2="689.6" stroke="#555" stroke-width="1.5"/>
+<text x="371" y="694.6" text-anchor="end" font-size="15" fill="#555">0</text>
+<line x1="375" y1="613.6" x2="380" y2="613.6" stroke="#555" stroke-width="1.5"/>
+<text x="371" y="618.6" text-anchor="end" font-size="15" fill="#555">2</text>
+<line x1="375" y1="537.6" x2="380" y2="537.6" stroke="#555" stroke-width="1.5"/>
+<text x="371" y="542.6" text-anchor="end" font-size="15" fill="#555">4</text>
+<polyline points="380.0,690.9 381.6,690.9 383.2,691.0 384.9,691.1 386.5,691.1 388.1,691.2 389.8,691.3 391.4,691.3 393.0,691.4 394.6,691.5 396.2,691.6 397.9,691.7 399.5,691.7 401.1,691.8 402.8,691.9 404.4,692.0 406.0,692.1 407.6,692.2 409.2,692.4 410.9,692.5 412.5,692.6 414.1,692.7 415.8,692.8 417.4,693.0 419.0,693.1 420.6,693.3 422.2,693.4 423.9,693.5 425.5,693.7 427.1,693.9 428.8,694.0 430.4,694.2 432.0,694.4 433.6,694.5 435.2,694.7 436.9,694.9 438.5,695.1 440.1,695.3 441.8,695.5 443.4,695.7 445.0,695.9 446.6,696.1 448.2,696.3 449.9,696.5 451.5,696.7 453.1,696.9 454.8,697.1 456.4,697.4 458.0,697.6 459.6,697.8 461.2,698.0 462.9,698.2 464.5,698.4 466.1,698.6 467.8,698.8 469.4,699.0 471.0,699.2 472.6,699.3 474.2,699.5 475.9,699.6 477.5,699.8 479.1,699.9 480.8,700.0 482.4,700.1 484.0,700.1 485.6,700.2 487.2,700.2 488.9,700.2 490.5,700.1 492.1,700.1 493.8,700.0 495.4,699.8 497.0,699.7 498.6,699.5 500.2,699.2 501.9,698.9 503.5,698.6 505.1,698.2 506.8,697.8 508.4,697.3 510.0,696.8 511.6,696.2 513.2,695.6 514.9,694.9 516.5,694.1 518.1,693.3 519.8,692.4 521.4,691.5 523.0,690.5 524.6,689.5 526.2,688.4 527.9,687.2 529.5,686.0 531.1,684.7 532.8,683.4 534.4,682.0 536.0,680.5 537.6,679.0 539.2,677.4 540.9,675.8 542.5,674.1 544.1,672.4 545.8,670.6 547.4,668.8 549.0,667.0 550.6,665.1 552.2,663.1 553.9,661.2 555.5,659.1 557.1,657.1 558.8,655.0 560.4,652.9 562.0,650.8 563.6,648.6 565.2,646.4 566.9,644.2 568.5,642.0 570.1,639.8 571.8,637.5 573.4,635.2 575.0,632.9 576.6,630.6 578.2,628.3 579.9,626.0 581.5,623.7 583.1,621.4 584.8,619.0 586.4,616.7 588.0,614.3 589.6,612.0 591.2,609.6 592.9,607.3 594.5,604.9 596.1,602.6 597.8,600.2 599.4,597.9 601.0,595.5 602.6,593.2 604.2,590.9 605.9,588.5 607.5,586.2 609.1,583.9 610.8,581.5 612.4,579.2 614.0,576.9 615.6,574.6 617.2,572.2 618.9,569.9 620.5,567.6 622.1,565.3 623.8,563.0 625.4,560.8 627.0,558.5 628.6,556.2 630.2,553.9 631.9,551.6 633.5,549.4 635.1,547.1 636.8,544.8 638.4,542.6 640.0,540.3" fill="none" stroke="#222" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="487.5" cy="700.2" r="5.5" fill="#f3a6f3" stroke="#2b2b2b" stroke-width="1.2"/>
+<text x="402" y="756" font-size="20" fill="#555">Domain:</text><text x="480" y="756" font-size="20" fill="#222">(−∞, ∞)</text>
+<text x="402" y="782" font-size="20" fill="#555">Range:</text><text x="480" y="782" font-size="20" fill="#222">[−0.278, ∞)</text>
+<text x="840.0" y="440" text-anchor="middle" font-size="25" fill="#222">GELU</text>
+<text x="692" y="476" font-size="18" fill="#222" xml:space="preserve" ><tspan>GELU(</tspan><tspan font-style="italic">z</tspan><tspan>) = </tspan><tspan font-style="italic">z</tspan><tspan> · </tspan><tspan font-style="italic">Φ</tspan><tspan>(</tspan><tspan font-style="italic">z</tspan><tspan>) ≈ </tspan><tspan font-style="italic">z</tspan><tspan> · </tspan><tspan font-style="italic">σ</tspan><tspan>(1.702</tspan><tspan font-style="italic">z</tspan><tspan>)</tspan></text>
+<text x="692" y="502" font-size="18" fill="#222" xml:space="preserve" ><tspan font-style="italic">Φ</tspan><tspan> = standard normal CDF</tspan></text>
+<rect x="720" y="530.0" width="260" height="169.1" fill="#a9c9d9" fill-opacity="0.55"/>
+<line x1="720" y1="699.1" x2="980" y2="699.1" stroke="#555" stroke-width="1.4"/>
+<line x1="720" y1="690.8" x2="980" y2="690.8" stroke="#e2cb82" stroke-width="9"/>
+<line x1="718" y1="690.8" x2="980" y2="690.8" stroke="#222" stroke-width="2" stroke-linecap="round"/>
+<polygon points="991,690.8 981,686.3 981,695.3" fill="#222"/>
+<line x1="868.6" y1="720" x2="868.6" y2="528" stroke="#222" stroke-width="2" stroke-linecap="round"/>
+<polygon points="868.6,518 864.1,528 873.1,528" fill="#222"/>
+<text x="996" y="695.8" font-size="18" font-style="italic" fill="#222">z</text>
+<line x1="757.1" y1="686.8" x2="757.1" y2="694.8" stroke="#222" stroke-width="1.5"/>
+<text x="757.1" y="710.8" text-anchor="middle" font-size="15" fill="#555">−3</text>
+<line x1="831.4" y1="686.8" x2="831.4" y2="694.8" stroke="#222" stroke-width="1.5"/>
+<text x="831.4" y="710.8" text-anchor="middle" font-size="15" fill="#555">−1</text>
+<line x1="905.7" y1="686.8" x2="905.7" y2="694.8" stroke="#222" stroke-width="1.5"/>
+<text x="905.7" y="710.8" text-anchor="middle" font-size="15" fill="#555">1</text>
+<line x1="980.0" y1="686.8" x2="980.0" y2="694.8" stroke="#222" stroke-width="1.5"/>
+<text x="980.0" y="710.8" text-anchor="middle" font-size="15" fill="#555">3</text>
+<line x1="715" y1="690.8" x2="720" y2="690.8" stroke="#555" stroke-width="1.5"/>
+<text x="711" y="695.8" text-anchor="end" font-size="15" fill="#555">0</text>
+<line x1="715" y1="642.1" x2="720" y2="642.1" stroke="#555" stroke-width="1.5"/>
+<text x="711" y="647.1" text-anchor="end" font-size="15" fill="#555">1</text>
+<line x1="715" y1="593.3" x2="720" y2="593.3" stroke="#555" stroke-width="1.5"/>
+<text x="711" y="598.3" text-anchor="end" font-size="15" fill="#555">2</text>
+<line x1="715" y1="544.6" x2="720" y2="544.6" stroke="#555" stroke-width="1.5"/>
+<text x="711" y="549.6" text-anchor="end" font-size="15" fill="#555">3</text>
+<polyline points="720.0,690.8 721.6,690.8 723.2,690.8 724.9,690.8 726.5,690.8 728.1,690.8 729.8,690.8 731.4,690.8 733.0,690.8 734.6,690.8 736.2,690.8 737.9,690.8 739.5,690.8 741.1,690.8 742.8,690.8 744.4,690.8 746.0,690.8 747.6,690.9 749.2,690.9 750.9,690.9 752.5,690.9 754.1,690.9 755.8,690.9 757.4,691.0 759.0,691.0 760.6,691.0 762.2,691.1 763.9,691.1 765.5,691.1 767.1,691.2 768.8,691.2 770.4,691.3 772.0,691.4 773.6,691.4 775.2,691.5 776.9,691.6 778.5,691.7 780.1,691.8 781.8,691.9 783.4,692.0 785.0,692.1 786.6,692.2 788.2,692.4 789.9,692.5 791.5,692.7 793.1,692.9 794.8,693.0 796.4,693.2 798.0,693.4 799.6,693.6 801.2,693.9 802.9,694.1 804.5,694.3 806.1,694.6 807.8,694.8 809.4,695.1 811.0,695.3 812.6,695.6 814.2,695.9 815.9,696.2 817.5,696.4 819.1,696.7 820.8,697.0 822.4,697.2 824.0,697.5 825.6,697.7 827.2,698.0 828.9,698.2 830.5,698.4 832.1,698.6 833.8,698.7 835.4,698.9 837.0,699.0 838.6,699.0 840.2,699.0 841.9,699.0 843.5,699.0 845.1,698.9 846.8,698.7 848.4,698.5 850.0,698.3 851.6,698.0 853.2,697.6 854.9,697.2 856.5,696.7 858.1,696.1 859.8,695.5 861.4,694.8 863.0,694.0 864.6,693.1 866.2,692.2 867.9,691.2 869.5,690.1 871.1,689.0 872.8,687.8 874.4,686.5 876.0,685.1 877.6,683.7 879.2,682.2 880.9,680.6 882.5,679.0 884.1,677.3 885.8,675.5 887.4,673.7 889.0,671.8 890.6,669.8 892.2,667.8 893.9,665.8 895.5,663.7 897.1,661.6 898.8,659.4 900.4,657.2 902.0,655.0 903.6,652.7 905.2,650.4 906.9,648.1 908.5,645.8 910.1,643.4 911.8,641.1 913.4,638.7 915.0,636.3 916.6,633.9 918.2,631.5 919.9,629.1 921.5,626.7 923.1,624.3 924.8,621.9 926.4,619.5 928.0,617.1 929.6,614.7 931.2,612.3 932.9,609.9 934.5,607.6 936.1,605.2 937.8,602.9 939.4,600.5 941.0,598.2 942.6,595.9 944.2,593.6 945.9,591.3 947.5,589.0 949.1,586.7 950.8,584.4 952.4,582.2 954.0,579.9 955.6,577.7 957.2,575.4 958.9,573.2 960.5,571.0 962.1,568.8 963.8,566.6 965.4,564.4 967.0,562.2 968.6,560.0 970.2,557.8 971.9,555.6 973.5,553.5 975.1,551.3 976.8,549.1 978.4,547.0 980.0,544.8" fill="none" stroke="#222" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="840.6" cy="699.1" r="5.5" fill="#f3a6f3" stroke="#2b2b2b" stroke-width="1.2"/>
+<text x="742" y="756" font-size="20" fill="#555">Domain:</text><text x="820" y="756" font-size="20" fill="#222">(−∞, ∞)</text>
+<text x="742" y="782" font-size="20" fill="#555">Range:</text><text x="820" y="782" font-size="20" fill="#222">[−0.170, ∞)</text>
+<text x="1050" y="440" font-size="25" fill="#222">Legend</text>
+<rect x="1050" y="472" width="44" height="20" fill="#a9c9d9" fill-opacity="0.55"/><text x="1108" y="488" font-size="20" fill="#222">Range of the output</text>
+<line x1="1050" y1="522" x2="1094" y2="522" stroke="#e2cb82" stroke-width="9"/><text x="1108" y="528" font-size="20" fill="#222">Domain of the input</text>
+<circle cx="1072" cy="562" r="5.5" fill="#f3a6f3" stroke="#2b2b2b" stroke-width="1.2"/><text x="1108" y="568" font-size="20" fill="#222">Global minimum</text>
+<line x1="1050" y1="604" x2="1094" y2="604" stroke="#555" stroke-width="1.4" stroke-dasharray="6 5"/><text x="1108" y="610" font-size="20" fill="#222">Bound not attained</text>
+<line x1="1050" y1="644" x2="1094" y2="644" stroke="#555" stroke-width="1.4"/><text x="1108" y="650" font-size="20" fill="#222">Bound attained</text>
+<text x="1050" y="710" font-size="20" fill="#222" xml:space="preserve" ><tspan>tanh(</tspan><tspan font-style="italic">z</tspan><tspan>) = 2</tspan><tspan font-style="italic">σ</tspan><tspan>(2</tspan><tspan font-style="italic">z</tspan><tspan>) − 1</tspan></text>
+</g><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYToyNzFjMWFjNi04ZDA1LTRmZjQtOTU1Ny00MTM5NmE4ODI4YjAAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaES3rkWrYnKLeyDq7KZmYo4AAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDpiNWJmNWQ2Zi1jNmE5LTQ2YzUtYjIwNy0yY2U5ODg1NzI1N2RscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNow1TiY0TT1dyVV9hgc8YRbQAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggRI2WYS2K9QGrCNkguudp0rWGGiGvDFn0esvzTG7IxSikZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaFFuqYxOnxphrnFSUN/bSpwAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRMAAAAAAAAAAAAAAAAZGhhc2hYIHopcUJY1Cte//jeWLRzihUNVlqGbsnSww0G80mQkcaSZG5hbWVuanVtYmYgbWFuaWZlc3RqZXhjbHVzaW9uc4GiZXN0YXJ0GXF0Zmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjI3MWMxYWM2LThkMDUtNGZmNC05NTU3LTQxMzk2YTg4MjhiMC9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjE0MmYwNmM1LWI3YTEtNDNlZi04OWI0LTJkYzA1ZGU1OWU0NXJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCBEjZZhLYr1AasI2SC652nStYYaIa8MWfR6y/NMbsjFKKJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFgg+Y3PW52NcHwJ2+xmkrLBxES4Yi2SN2O8u+d/ggst7HmiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggxPVXNvk11CdW52V4cb/6z1fLnvpgqewogfnYUfltkNl0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQMC54J14Io9HkcVFrBbnsdSV5zQAxWNrQntZqqIw0yLkhSfvSenle0vTFAkNGuh/3GvBWgxhff72Iq8YMJCifgk=</c2pa:manifest></metadata></svg>

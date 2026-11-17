@@ -21,7 +21,7 @@ Natural language processing (NLP) is a crucial part of artificial intelligence (
 
 - Lecture 1 — Intro and Word Vectors: [Note](./notes/lecture1/note.md) / [Video](https://www.youtube.com/watch?v=DzpHeXVSC5I&list=PLoROMvodv4rOaMFbaqxPDoLWjDaRAdP9D&index=1)
 - Lecture 2 — Word Vectors and Language Models: [Note](./notes/lecture2/note.md) / [Video](https://www.youtube.com/watch?v=nBor4jfWetQ&list=PLoROMvodv4rOaMFbaqxPDoLWjDaRAdP9D&index=2)
-- Lecture 3 — Backpropagation, Neural Network: [Video](https://www.youtube.com/watch?v=HnliVHU2g9U&list=PLoROMvodv4rOaMFbaqxPDoLWjDaRAdP9D&index=3)
+- Lecture 3 — Backpropagation, Neural Network: [Note](./notes/lecture3/note.md) / [Video](https://www.youtube.com/watch?v=HnliVHU2g9U&list=PLoROMvodv4rOaMFbaqxPDoLWjDaRAdP9D&index=3)
 - Lecture 4 — Dependency Parsing: [Video](https://www.youtube.com/watch?v=KVKvde-_MYc&list=PLoROMvodv4rOaMFbaqxPDoLWjDaRAdP9D&index=4)
 - Lecture 5 — Recurrent Neural Networks: [Video](https://www.youtube.com/watch?v=fyc0Jzr74y4&list=PLoROMvodv4rOaMFbaqxPDoLWjDaRAdP9D&index=5)
 - Lecture 6 — Sequence to Sequence Models: [Video](https://www.youtube.com/watch?v=Ba6Fn1-Jsfw&list=PLoROMvodv4rOaMFbaqxPDoLWjDaRAdP9D&index=6)
@@ -56,7 +56,8 @@ Natural language processing (NLP) is a crucial part of artificial intelligence (
 yzhe819/CS224N-Spring-2024/notes/
 │
 ├── lecture1      Lecture 1        ✓ 2026-11-15
-└── lecture2      Lecture 2        ✓ 2026-11-16
+├── lecture2      Lecture 2        ✓ 2026-11-16
+└── lecture3      Lecture 3        ✓ 2026-11-18
 ```
 
 ### Assignments
