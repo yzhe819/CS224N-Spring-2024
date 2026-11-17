@@ -15,7 +15,9 @@
 
 拿一句话举例：`problems turning into banking crises as`
 
-![窗口示例：中心词 banking 与窗口内的上下文词](./img/example.svg)
+<div align="center">
+  <img src="./img/example.svg" alt="窗口示例：中心词 banking 与窗口内的上下文词" />
+</div>
 
 - 中心词 c = banking，窗口（大小为 2）内的上下文词 o = turning、into、crises、as。
 - 模型要回答："看到 banking，旁边出现 crises 的概率是多少？"

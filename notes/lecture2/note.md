@@ -2,7 +2,9 @@
 
 ## 1. 优化：从梯度下降到 SGD
 
-![exmple](./img/gradient-descent.svg)
+<div align="center">
+  <img src="./img/gradient-descent.svg" alt="exmple" />
+</div>
 
 **梯度下降**：在当前的 $\theta$ 处计算损失 $J(\theta)$ 的梯度，沿负梯度方向走一小步来最小化 $J(\theta)$，重复直到收敛。
 
@@ -57,7 +59,9 @@ word2vec 要反复扫描整个语料，那为什么不直接统计哪些词经�
 - **SVD 降维**：$X=U\Sigma V^{\top}$，只保留最大的 $k$ 个奇异值，得到的 $\hat{X}$ 是最小二乘意义下的最佳秩 $k$ 近似。但大矩阵上计算很贵。
 - **并且直接对原始计数做 SVD 效果不好**：the、he 这类功能词太高频，句法信息压过了语义。需要先缩放计数，例如取 log、给计数设上限 $\min(X,t)$、忽略功能词。（都是在 SVD 之前改 $X$）
 
-![matrix](./img/svd-diagram.svg)
+<div align="center">
+  <img src="./img/svd-diagram.svg" alt="matrix" />
+</div>
 
 ---
 
